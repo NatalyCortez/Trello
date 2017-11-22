@@ -1,1 +1,3 @@
-window.addEventListener("load",iniciar);
+window.addEventListener("load",function(){
+  
+});
